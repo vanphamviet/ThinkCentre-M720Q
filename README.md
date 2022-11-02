@@ -1,7 +1,7 @@
 ![Model](https://www.e-systems.de/media/image/a7/d3/9d/Lenovo-Thinkcentre-M720-Tiny-9qgYqmRzVSO0xo.png)
 
 
-[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
+[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/vanpham)
 
 ## Hardware
 Components | Recommended
